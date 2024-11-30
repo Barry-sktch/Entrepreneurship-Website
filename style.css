@@ -157,7 +157,7 @@ h2{
 .home-content .start-btn:hover{
     background: #691451;
     color: white;
-    box-shadow: none;
+    box-shadow:color(from color srgb r g b);
 }
 
 /* css for quiz note section*/
