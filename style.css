@@ -286,7 +286,7 @@ h2{
 .quiz-box h1{
     font-size: 32px;
     text-align: center;
-    background: linear-gradient(45deg, transparent, #AA2C86, transparent);
+    background: linear-gradient(45deg, transparent, #0A97B0, transparent);
     border-radius: 6px;
 }
 
@@ -295,7 +295,7 @@ h2{
     justify-content: space-between;
     align-items: center;
     padding: 20px 0;
-    border-bottom: 2px solid #AA2C86;
+    border-bottom: 2px solid #0A97B0;
     margin-bottom: 30px;
 
 }
@@ -306,7 +306,7 @@ h2{
 }
 
 .quiz-header .header-score{
-    background: #AA2C86;
+    background: #0A97B0;
     border-radius: 3px;
     padding: 7px;
 }
