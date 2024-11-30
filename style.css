@@ -156,6 +156,7 @@ h2{
 
 .home-content .start-btn:hover{
     background: #691451;
+    color:aqua;
     box-shadow: none;
 }
 
