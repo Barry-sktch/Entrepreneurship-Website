@@ -481,5 +481,24 @@ h2{
 .buttons button:hover{
     background: darkblue;
     border-color: darkblue;
-
+    
+}
+.sidebar{
+    width: 25%;
+    height: 700px;
+    background-color: #dee20a; 
+    color: black;
+    float: right;
+    height: 700px;
+    padding: 70px;
+}
+.welcome{ 
+    background-color: #ffffff;
+    float: left;
+    width: 75%;
+    height: 700px;
+    padding: 70px;
+}
+main{
+    background-color: #ffffff;
 }
