@@ -98,7 +98,7 @@ h2{
 
 .navbar a:hover,
 .navbar a.active{
-    color: #AA2C86;
+    color: #0fd1f4;
 }
 
 /*Css for container (home section)*/
@@ -142,11 +142,11 @@ h2{
 .home-content .start-btn{
     width: 190px;
     height: 55px;
-    background: #AA2C86;
+    background: #0A97B0;
     border: 2px solid #fff;
     outline: none;
     border-radius: 10px;
-    box-shadow: 0 0 10px #AA2C86;
+    box-shadow: 0 0 10px #0A97B0;
     font-size: 18px;
     color: #fff;
     letter-spacing: 1px;
