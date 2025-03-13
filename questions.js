@@ -45,24 +45,24 @@ let questions = [
     },
     {
         numb: 5,
-        question: "Which of these is NOT a funding option for startups?",
-        answer: "D. Extensible Markup Language",
+        question: "How do scalable startups typically differentiate themselves from other types of entrepreneurship?",
+        answer: "D. They identify market gaps and create innovative solutions for rapid expansion.",
         options: [
-            "A. Excellent Multiple Language",
-            "B. Explore Multiple Language",
-            "C. Extra Markup Language",
-            "D. Extensible Markup Language"
+            "A. They avoid risk and focus on slow, steady growth.",
+            "B. They prioritize hiring as many employees as possible.",
+            "C. They mainly operate small local businesses with limited ambitions.",
+            "D. They identify market gaps and create innovative solutions for rapid expansion."
         ]
     },
     {
         numb: 6,
-        question: "Which of these is NOT a funding option for startups?",
-        answer: "C. Communication",
+        question: "Why is entrepreneurship considered essential for economic growth?",
+        answer: "C. It drives new business creation, innovation, and job opportunities.",
         options: [
-            "A Financial forecasting", 
-            "B Market research", 
-            "C. Communication", 
-            "A. Coding" 
+            "A. It replaces large corporations with smaller businesses.", 
+            "B. It reduces technological advancements.", 
+            "C. It drives new business creation, innovation, and job opportunities.", 
+            "D. It eliminates competition in the market." 
         ]
     },
     {
