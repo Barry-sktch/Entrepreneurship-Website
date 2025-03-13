@@ -1,46 +1,46 @@
 let questions = [
     {
         numb: 1,
-        question: "What does it mean to be an entreprenuer?",
-        answer: "A. a person who sets up a business or businesses, taking on financial risks in the hope of profit.",
+        question: "What is the primary goal of a social entrepreneur?",
+        answer: "A. To create products that improve the world.",
         options: [
-            "A. a person who sets up a business or businesses, taking on financial risks in the hope of profit.",
-            "B. a business man",
-            "C. a person works under an organisation ",
-            "D. a person who is unemployed but still receeives a profit"
+            "A. To create products that improve the world.",
+            "B. To maximize personal profit.",
+            "C. To build large multinational companies.",
+            "D. To attract venture capitalists."
         ]
     },
     {
         numb: 2,
-        question: "What is the primary goal of a business?",
-        answer: "C. To make a profit",
+        question: "Which of the following is NOT a characteristic of a researcher entrepreneur?",
+        answer: "C. They take impulsive risks based on intuition.",
         options: [
-            "A. To create jobs",
-            "B. To solve problems",
-            "C. To make a profit",
-            "D. To pay taxes"
+            "A. They rely on facts, data, and logic.",
+            "B. They create detailed business plans.",
+            "C. They take impulsive risks based on intuition",
+            "D. They aim to minimize chances of failure through preparation."
         ]
     },
     {
         numb: 3,
-        question: "Which of the following is a key characteristic of an entrepreneur?",
-        answer: "A. Hypertext Preprocessor",
+        question: "Entrepreneurship is best described as:",
+        answer: "A. The ability to take risks and manage a business to generate profit",
         options: [
-            "A. Hypertext Preprocessor",
-            "B. Hometext Programming",
-            "C. Hypertext Preprogramming",
-            "D. Programming Hypertext Preprocessor"
+            "A. The ability to take risks and manage a business to generate profit.",
+            "B. The process of finding a job in an established company.",
+            "C. A way to follow orders and maintain stability in the economy.",
+            "D. A profession limited to technology startups."
         ]
     },
     {
         numb: 4,
-        question: "What is a business plan?",
-        answer: "D. Structured Query Language",
+        question: "Which of the following best describes an entrepreneur?",
+        answer: "D. Someone who takes risks, creates value, and innovates in business?",
         options: [
-            "A. Strength Query Language",
-            "B. Stylesheet Query Language",
-            "C. Science Question Language",
-            "D. Structured Query Language"
+            "A. A person who avoids risks and prefers stability.",
+            "B. A manager working in a large corporate organization.",
+            "C. Someone who follows strict business traditions without change.",
+            "D. Someone who takes risks, creates value, and innovates in business."
         ]
     },
     {
